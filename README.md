@@ -1,2 +1,2 @@
-# very-Useful-Python-Lines
+# Very Useful Python Lines
 Python Code to be used for special cases
